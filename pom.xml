@@ -11,7 +11,7 @@
     <groupId>com.github.adanruiz</groupId>
     <artifactId>simpleweb-archetype</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>simpleweb</name>
+    <name>simpleweb-archetype</name>
     <description>Simple springboot web project.</description>
 
     <properties>
