@@ -8,8 +8,8 @@
         <version>2.6.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>indi.huhy.archetypes</groupId>
-    <artifactId>simpleweb</artifactId>
+    <groupId>com.github.adanruiz</groupId>
+    <artifactId>simpleweb-archetype</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>simpleweb</name>
     <description>Simple springboot web project.</description>
